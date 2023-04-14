@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,proxy.safebrowsing.apple
+  - DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
+  - DOMAIN-SUFFIX,configuration.apple.com
+  - DOMAIN-SUFFIX,init.itunes.apple.com
+  - DOMAIN-SUFFIX,news-assets.apple.com
+  - DOMAIN-SUFFIX,play.itunes.apple.com
+  - DOMAIN-SUFFIX,xp.apple.com
