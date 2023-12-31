@@ -1,15 +1,13 @@
-payload:
-  - DOMAIN,amp-api.podcasts.apple.com
-  - DOMAIN,api-glb-sea.smoot.apple.com
-  - DOMAIN,bookkeeper.itunes.apple.com
-  - DOMAIN,configuration.apple.com
-  - DOMAIN,configuration.ls.apple.com
-  - DOMAIN,gspe1-ssl.ls.apple.com
-  - DOMAIN,init.itunes.apple.com
-  - DOMAIN,lookup-api.apple.com
-  - DOMAIN,news-assets.apple.com
-  - DOMAIN,play-edge.itunes.apple.com
-  - DOMAIN,play.itunes.apple.com
-  - DOMAIN,proxy.safebrowsing.apple
-  - DOMAIN,xp.apple.com
-  - DOMAIN-SUFFIX,appsto.re
++.appsto.re
++.bookkeeper.itunes.apple.com
++.podcasts.apple.com
+api-glb-sea.smoot.apple.com
+configuration.apple.com
+configuration.ls.apple.com
+gspe1-ssl.ls.apple.com
+init.itunes.apple.com
+lookup-api.apple.com
+news-assets.apple.com
+play-edge.itunes.apple.com
+play.itunes.apple.com
+proxy.safebrowsing.apple
